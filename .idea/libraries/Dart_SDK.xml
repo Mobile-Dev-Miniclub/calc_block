@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Dart SDK">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/async" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/cli" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/collection" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/convert" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/core" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/developer" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/ffi" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/html" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/indexed_db" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/io" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/isolate" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/js" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/js_util" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/math" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/mirrors" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/svg" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/typed_data" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/web_audio" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/web_gl" />
+      <root url="file://$PROJECT_DIR$/../../../Apps/SDK/dartsdk-windows-x64-release/lib/web_sql" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
